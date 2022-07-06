@@ -1,0 +1,4 @@
+/Users/zhaoruiyang/libecc/build/CMakeFiles/package.dir
+/Users/zhaoruiyang/libecc/build/CMakeFiles/package_source.dir
+/Users/zhaoruiyang/libecc/build/CMakeFiles/edit_cache.dir
+/Users/zhaoruiyang/libecc/build/CMakeFiles/rebuild_cache.dir
